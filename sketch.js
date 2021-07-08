@@ -15,7 +15,7 @@ function setup(){
     hammer = new Hammer(10,100);
     ball = new Rubber(500,300,50);
     iron1 = new iron(700,300,80,80) ;
-   pekel = new stone(400,300)
+   pekel = new stone(400,50)
 
 }
 
